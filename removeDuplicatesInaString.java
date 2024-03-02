@@ -1,5 +1,5 @@
 public class removeDuplicatesInaString {
-    public static void removeDuplicates(String str, int index, StringBuilder sb, boolean[] map) {
+    public static void remove Duplicates(String str, int index, StringBuilder sb, boolean[] map) {
         if(index == str.length()){
             System.out.println(sb);
             return;
