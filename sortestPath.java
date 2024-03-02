@@ -13,7 +13,7 @@ public class sortestPath {
             else if(path.charAt(i) == 'E'){
                 x++;
             }
-            else if(path.charAt(i) == 'W'){
+            else if(path.charAt(i) ==  'W'){
                 x--;
             }
             System.out.println("I reached this point: " + x + "," + y);
