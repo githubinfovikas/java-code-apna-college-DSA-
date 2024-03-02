@@ -12,6 +12,6 @@ public class removeDuplicatesInaString {
     public static void main(String[] args) {
         
         String str = "apnaCollege";
-        removeDuplicates(str, 0,new StringBuilder(""), new boolean[26]);
+        removeDuplicates(str, 0,new String Builder(""), new boolean[26]);
     }
 }
